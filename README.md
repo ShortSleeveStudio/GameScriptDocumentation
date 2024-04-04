@@ -9,3 +9,6 @@ Short Sleeve Studio uses this repository to host the following for GameScript:
 - [GameScript Store](https://github.com/ShortSleeveStudio/GameScriptDocumentation)
 - [Unity Plugin](https://github.com/ShortSleeveStudio/GameScriptUnity)
 - [Short Sleeve Studio](https://www.shortsleeve.studio/gamescript)
+
+### License
+GameScript is proprietary, but this repository it not.
