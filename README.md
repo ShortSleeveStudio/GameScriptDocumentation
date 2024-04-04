@@ -1,3 +1,4 @@
+<img src=".github/splash.png" alt="GameScript" /><br/>
 # GameScript Documentation
 Short Sleeve Studio uses this repository to host the following for GameScript:
 1. [A wiki](https://github.com/ShortSleeveStudio/GameScriptDocumentation/wiki) with all of our documentation.
